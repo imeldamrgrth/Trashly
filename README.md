@@ -26,6 +26,7 @@ Trashly is a computer vision project that classifies waste images into 10 catego
 
 ## Dataset
 Source: Kaggle – Garbage Classification V2 
+
 All images resized to **224 × 224**.
 
 ---
